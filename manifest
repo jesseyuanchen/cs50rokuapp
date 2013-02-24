@@ -1,0 +1,9 @@
+title=This is CS50.
+subtitle=Harvard University
+major_version=1
+minor_version=0
+build_version=00001
+mm_icon_focus_hd=pkg:/images/home-hd.png
+mm_icon_side_hd=pkg:/images/home-hd.png
+mm_icon_focus_sd=pkg:/images/home-focus-sd.png
+mm_icon_side_sd=pkg:/images/home-focus-sd.png
